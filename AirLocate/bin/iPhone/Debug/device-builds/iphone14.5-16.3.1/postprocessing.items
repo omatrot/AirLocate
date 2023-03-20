@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="AirLocation.app/AirLocation">
+      <BCSymbolMapName>AirLocation.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>false</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>false</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>AirLocation.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/oliviermatrot/Documents/matrot.tech/ios-samples/AirLocate/AirLocate/obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/mtouch-symbols.list</SymbolFile>
+      <DSymName>AirLocation.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/oliviermatrot/Documents/matrot.tech/ios-samples/AirLocate/AirLocate</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

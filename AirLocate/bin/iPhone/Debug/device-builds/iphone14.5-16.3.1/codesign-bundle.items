@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_CodesignBundle Include="AirLocation.app">
+      <CodesignSigningKey>1249FB00B711702CEBF665A1116D7A6D60822198</CodesignSigningKey>
+      <CodesignEntitlements>/Users/oliviermatrot/Documents/matrot.tech/ios-samples/AirLocate/AirLocate/obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/Entitlements.xcent</CodesignEntitlements>
+      <CodesignUseSecureTimestamp></CodesignUseSecureTimestamp>
+      <CodesignAllocate>/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate</CodesignAllocate>
+      <RequireCodeSigning>true</RequireCodeSigning>
+      <CodesignExtraArgs></CodesignExtraArgs>
+      <CodesignResourceRules></CodesignResourceRules>
+      <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
+      <CodesignKeychain></CodesignKeychain>
+      <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
+      <SourceProjectPath>/Users/oliviermatrot/Documents/matrot.tech/ios-samples/AirLocate/AirLocate</SourceProjectPath>
+    </_CodesignBundle>
+  </ItemGroup>
+</Project>

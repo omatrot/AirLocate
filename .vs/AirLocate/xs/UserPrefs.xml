@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{718D5D6E-871A-4A42-9867-3D1F0552B0F4}|Default">
+  <MonoDevelop.Ide.ItemProperties.AirLocate PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008030-001905A634F9802E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AirLocate/Info.plist">
+    <Files>
+      <File FileName="AirLocate/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AirLocate">
+            <Node name="AirLocate" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc/559-view-560.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <LogicalName>MainStoryboard.storyboardc/559-view-560.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc/24-view-25.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <LogicalName>MainStoryboard.storyboardc/24-view-25.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc/ConfigurationViewController.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <LogicalName>MainStoryboard.storyboardc/ConfigurationViewController.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc/1435-view-1436.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <LogicalName>MainStoryboard.storyboardc/1435-view-1436.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc/RangingViewController.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <LogicalName>MainStoryboard.storyboardc/RangingViewController.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc/UINavigationController-11.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <LogicalName>MainStoryboard.storyboardc/UINavigationController-11.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc/MonitoringViewController.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <LogicalName>MainStoryboard.storyboardc/MonitoringViewController.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc/314-view-569.nib">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <LogicalName>MainStoryboard.storyboardc/314-view-569.nib</LogicalName>
+      <OriginalItemSpec>obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <InterfaceDefinition>MainStoryboard.storyboard</InterfaceDefinition>
+      <LogicalName>MainStoryboard.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/iPhone/Debug/device-builds/iphone14.5-16.3.1/ibtool/MainStoryboard.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>
