@@ -10,15 +10,16 @@ namespace AirLocate {
 		static Defaults ()
 		{
 			supportedProximityUuids = new NSUuid [] {
-				new NSUuid ("E2C56DB5-DFFB-48D2-B060-D0F5A71096E0"),
-				new NSUuid ("5A4BCFCE-174E-4BAC-A814-092E77F6B7E5"),
-				new NSUuid ("74278BDA-B644-4520-8F0C-720EAF059935")
-			};
+				new NSUuid ("50726f74-5254-0000-81d7-269f42f8f606"),
+                new NSUuid ("50726f74-5254-0001-81d7-269f42f8f606"),
+				new NSUuid ("50726f74-5254-0002-81d7-269f42f8f606"),
+				new NSUuid ("50726f74-5254-0003-81d7-269f42f8f606"),
+            };
 			defaultPower = new NSNumber (-59);
 		}
 
 		static public string Identifier {
-			get { return "com.matrot.tech.airlocate"; }
+			get { return "com.rte.technologies.airlocate"; }
 		}
 
 		static public NSUuid DefaultProximityUuid {

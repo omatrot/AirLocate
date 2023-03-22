@@ -11,7 +11,7 @@
 	<key>MinimumOSVersion</key>
 	<string>9.0</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.matrot.tech.airlocate</string>
+	<string>com.rte.technologies.airlocate</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
